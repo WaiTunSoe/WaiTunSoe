@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on back-end development<br>🌱 I’m currently learning React<br>💬 Ask me about PHP, Laravel
+🔭 I’m currently working on full-stack development<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about REACT, PHP, Laravel
 
 
 ## 🌐 Socials:
